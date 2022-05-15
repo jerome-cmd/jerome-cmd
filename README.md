@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C++   12 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
